@@ -1,4 +1,4 @@
-# ROS 2 Practice Projects
+# ROS 2 Tasks
 
 This project contains two small ROS 2 exercises. The first demonstrates publisher-subscriber communication, and the second uses a Python script to draw a square in turtlesim.
 

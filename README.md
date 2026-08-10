@@ -34,6 +34,10 @@ source /opt/ros/humble/setup.bash
 source install/setup.bash
 ros2 run pubsub listener
 ```
+## Terminal Output
+<p align="center">
+  <img src="images/pubsub_demo.png" alt="PubSub">
+</p>
 
 ## 2. Turtle Square Pattern
 
@@ -58,3 +62,7 @@ Then in another terminal:
 source /opt/ros/humble/setup.bash
 python3 /home/mo/turtle_scripts/turtle_square.py
 ```
+## Terminal Output
+<p align="center">
+  <img src="images/turtle_square_demo.png" alt="Turtle Square Pattern">
+</p>
